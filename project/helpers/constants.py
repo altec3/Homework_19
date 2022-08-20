@@ -1,0 +1,4 @@
+PWD_SALT = b'rfrfz-nj cjkm'
+PWD_ITERATIONS = 100000
+JWT_SECRET = 's3cR$eT'
+JWT_ALG = 'HS256'
